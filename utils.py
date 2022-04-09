@@ -1,6 +1,4 @@
 from sre_parse import CATEGORIES
-import requests
-import json
 import time
 import os
 
