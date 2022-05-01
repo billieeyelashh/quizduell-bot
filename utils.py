@@ -52,7 +52,9 @@ CATEGORIES_Y = 400
 
 
 # OPENAI API
-openai.api_key = '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'
+key = 'OPENAIKEY'
+
+openai.api_key = os.getenv(key, "value does not exist")
 
 # Locate an image with pyautogui
 def locate_image(img):
