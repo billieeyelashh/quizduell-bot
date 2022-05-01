@@ -1,5 +1,5 @@
 # quizduell-bot
-Little bot for automating german quizshow quizduell utilizing gpt3 
+Hacked together little quizduell bot works ... kinda lol 
 
 ## How to use
 - Install bluestack
