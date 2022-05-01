@@ -1,5 +1,5 @@
 # quizduell-bot
-Hacked together little quizduell bot works ... kinda lol 
+Hacked together little quizduell bot works ... kinda lol. Also build this on by bruvs pc and used windows to  develop this. And must say that windows isn't as shit for a fast hack like this 
 
 ## How to use
 - Install bluestack
