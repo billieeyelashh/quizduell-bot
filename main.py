@@ -12,10 +12,6 @@ if __name__ == '__main__':
         logging.basicConfig(level=logging.DEBUG)
 
     while start:
-       
-        #Vars
-        next = 0
-
         # Checking for Buttons (highly inefficient)
         if locate_image('buttons/newGame.PNG'):
             print('[INFO] New Game found')
